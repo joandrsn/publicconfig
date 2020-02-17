@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+[Parameter(Mandatory)]
+[String]\$${1:Parameter}
+]]></content>
+  <tabTrigger>param</tabTrigger>
+  <scope>source.powershell</scope>
+</snippet>

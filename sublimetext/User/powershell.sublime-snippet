@@ -1,0 +1,16 @@
+<snippet>
+  <content><![CDATA[function ${1:Get-funcName}
+{
+  [CmdletBinding()]
+  Param(
+    [Parameter()]
+    [String]\$${2:parameter}
+    )
+  Process
+  {
+    $3
+  }
+}]]></content>
+  <tabTrigger>func</tabTrigger>
+  <scope>source.powershell</scope>
+</snippet>

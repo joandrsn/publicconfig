@@ -1,0 +1,5 @@
+configuration {
+  parse-known-hosts: false;
+  ssh-command: "{terminal} -e \"{ssh-client} {host} [-p {port}]\"";
+}
+@import "/usr/share/rofi/themes/gruvbox-dark-hard.rasi"

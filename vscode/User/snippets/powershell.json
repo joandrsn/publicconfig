@@ -1,0 +1,28 @@
+{
+	"Function": {
+		"prefix": "func",
+		"body": [
+			"function ${1:funcName}",
+			"{",
+			"\t[CmdletBinding()]",
+			"\tParam(",
+			"\t\t[Parameter(Mandatory)]",
+			"\t\t[String]$${2:parameter}",
+			"\t)",
+			"\tProcess",
+			"\t{",
+			"\t\t$0",
+			"\t}",
+			"}"
+		],
+		"description": "Function, Jonas way"
+	},
+	"Parameter": {
+		"prefix": "param",
+		"body": [
+			"[Parameter(Mandatory)]",
+			"[String]$$0"
+		],
+		"description": "parameter"
+	}
+}

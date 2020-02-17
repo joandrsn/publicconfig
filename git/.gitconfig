@@ -1,0 +1,7 @@
+[user]
+	name = Jonas Andersen
+	email = jonas@anrsn.me
+[core]
+	autocrlf = input
+[credential]
+	helper = store

@@ -1,0 +1,56 @@
+{
+    "git.confirmSync": false,
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true
+    },
+    "explorer.openEditors.visible": 0,
+    "explorer.autoReveal": false,
+    "editor.minimap.enabled": true,
+    "powershell.integratedConsole.showOnStartup": false,
+    "terminal.integrated.fontSize": 12,
+    "terminal.integrated.fontFamily": "Lucida Console",
+    "files.encoding": "utf8",
+    "[plaintext]": {
+        "files.encoding": "windows1252"
+    },
+    "dynamicsnav.licensefile": "C:\\temp\\license.flf",
+    "dynamicsnav.commonsqllocation": "\\\\ev-filsrv01\\public\\User\\jsa\\backup.bak",
+    "git.enableSmartCommit": true,
+    "editor.insertSpaces": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.snippetSuggestions": "top",
+    "editor.formatOnPaste": true,
+     "[plaintext]": {
+        "files.encoding": "windows1252"
+    },
+    "explorer.confirmDragAndDrop": false,
+    "git.autofetch": true,
+    "workbench.startupEditor": "newUntitledFile",
+    "npm.autoDetect": "on",
+    "jake.autoDetect": "off",
+    "gulp.autoDetect": "off",
+    "grunt.autoDetect": "off",
+    "editor.fontSize": 12,
+    "editor.renderLineHighlight": "gutter",
+    "editor.lineHeight": 15,
+    "editor.fontWeight": "normal",
+    "editor.tabSize": 2,
+    "editor.fontFamily": "'Source Code Pro', Consolas, 'Courier New', monospace",
+    "workbench.colorTheme": "Monokai",
+    "window.openFilesInNewWindow": "off",
+    "gitlens.keymap": "alternate",
+    "gitlens.historyExplorer.enabled": true,
+    "gitlens.advanced.messages": {
+        "suppressShowKeyBindingsNotice": true
+    },
+    "git.ignoreLimitWarning": true,
+    "files.autoGuessEncoding": true,
+    "gitlens.resultsExplorer.files.layout": "tree",
+    "window.zoomLevel": 0,
+    "window.menuBarVisibility": "toggle",
+    "update.mode": "none"
+}

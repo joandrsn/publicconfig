@@ -1,0 +1,17 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Indent XML",
+		"JSON Reindent",
+		"JSONLint",
+		"Package Control",
+		"PowerShell",
+		"Pretty JSON",
+		"SqlBeautifier",
+		"Superlime"
+	]
+}
